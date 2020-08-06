@@ -11,9 +11,6 @@
   },
   "keywords": [],
   "author": "Marcos Ferreira",
-  "repository": {
-    "url": "https://github.com/marcostack/proffy-api"
-  },
   "license": "ISC",
   "devDependencies": {
     "@types/cors": "^2.8.7",
