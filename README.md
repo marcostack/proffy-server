@@ -1,12 +1,13 @@
-# Funcionalidades
+# Install NodeJS and NPM
 
-## Conexões
+### Run the following command to install and run the application:
 
-[] Rota para listar o total de conexões realizadas;
-[] Rota para criar uma nova conexão;
+>git clone http://github.com/marcostack/proffy-server
 
-## Aulas
-[x] Rota para criar uma aula;
-[] Rota para listar aulas;
-  [] Filtrar por matéria, dia da semana e horário;
+>cd proffy-server
 
+>npm install
+
+>npm run migrate:latest
+
+>npm start
